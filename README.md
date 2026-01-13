@@ -1,34 +1,46 @@
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
-  🔭 <b>Currently Working On</b><br>
-  Designing and deploying AI-powered voice agents for healthcare applications.
-</p>
+<ul>
+  <li>
+    <b>🔭 Currently Working On</b><br>
+    Designing and deploying AI-powered voice agents for healthcare applications.
+  </li>
 
-<p align="center">
-  👯 <b>Open to Collaborate On</b><br>
-  Conversational AI, AI voice agents, and real-world AI system development.
-</p>
+  <br>
 
-<p align="center">
-  🤝 <b>Looking for Help With</b><br>
-  Optimizing real-time AI systems and scaling agent-based architectures.
-</p>
+  <li>
+    <b>🤝 Open to Collaborate On</b><br>
+    Conversational AI, AI voice agents, and real-world AI system development.
+  </li>
 
-<p align="center">
-  🌱 <b>Currently Learning</b><br>
-  Advanced Agentic AI, Retrieval-Augmented Generation (RAG), and real-time AI pipelines.
-</p>
+  <br>
 
-<p align="center">
-  💬 <b>Ask Me About</b><br>
-  AI voice agents, LLM integration, computer vision, and Flutter-based applications.
-</p>
+  <li>
+    <b>⚙️ Looking for Help With</b><br>
+    Optimizing real-time AI systems and scaling agent-based architectures.
+  </li>
 
-<p align="center">
-  ⚡ <b>Fun Fact</b><br>
-  I enjoy building AI systems that talk and think like humans 🤖🎙️
-</p>
+  <br>
+
+  <li>
+    <b>🌱 Currently Learning</b><br>
+    Advanced Agentic AI, Retrieval-Augmented Generation (RAG), and real-time AI pipelines.
+  </li>
+
+  <br>
+
+  <li>
+    <b>💬 Ask Me About</b><br>
+    AI voice agents, LLM integration, computer vision, and Flutter-based applications.
+  </li>
+
+  <br>
+
+  <li>
+    <b>⚡ Fun Fact</b><br>
+    I enjoy building AI systems that talk and think like humans 🤖🎙️
+  </li>
+</ul>
 
 
 ## 🌐 Socials:
