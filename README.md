@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinALi1a1&theme=dark&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohsinALi1a1&theme=github_dark" height="150"/>
 </p>
 
 ---
