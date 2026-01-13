@@ -84,24 +84,24 @@
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
 
-  <!-- Profile Details -->
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohsinALi1a1&theme=github_dark" style="width: 100%; height: auto; border-radius: 10px;"/>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohsinALi1a1&theme=github_dark" height="170"/>
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false" height="170"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohsinALi1a1&theme=github_dark" height="170"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- Streak Stats -->
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false" style="width: 100%; height: auto; border-radius: 10px;"/>
-  </div>
+</p>
 
-  <!-- Top Languages -->
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohsinALi1a1&theme=github_dark" style="width: 100%; height: auto; border-radius: 10px;"/>
-  </div>
-
-</div>
 
 
 ---
