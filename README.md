@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinALi1a1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of a Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
