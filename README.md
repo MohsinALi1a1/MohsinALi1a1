@@ -1,5 +1,34 @@
-<center># 💫 About Me:</center>
-🔭 I’m currently working on<br>Designing and deploying AI-powered voice agents for healthcare applications.<br>👯 I’m looking to collaborate on<br>Conversational AI, AI voice agents, and real-world AI system development.<br>🤝 I’m looking for help with<br>Optimizing real-time AI systems and scaling agent-based architectures.<br>🌱 I’m currently learning<br>Advanced Agentic AI, Retrieval-Augmented Generation (RAG), and real-time AI pipelines.<br>💬 Ask me about<br>AI voice agents, LLM integration, computer vision, and Flutter-based applications.<br>⚡ Fun fact<br>I enjoy building AI systems that talk and think like humans 🤖🎙️<br>
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  🔭 <b>Currently Working On</b><br>
+  Designing and deploying AI-powered voice agents for healthcare applications.
+</p>
+
+<p align="center">
+  👯 <b>Open to Collaborate On</b><br>
+  Conversational AI, AI voice agents, and real-world AI system development.
+</p>
+
+<p align="center">
+  🤝 <b>Looking for Help With</b><br>
+  Optimizing real-time AI systems and scaling agent-based architectures.
+</p>
+
+<p align="center">
+  🌱 <b>Currently Learning</b><br>
+  Advanced Agentic AI, Retrieval-Augmented Generation (RAG), and real-time AI pipelines.
+</p>
+
+<p align="center">
+  💬 <b>Ask Me About</b><br>
+  AI voice agents, LLM integration, computer vision, and Flutter-based applications.
+</p>
+
+<p align="center">
+  ⚡ <b>Fun Fact</b><br>
+  I enjoy building AI systems that talk and think like humans 🤖🎙️
+</p>
 
 
 ## 🌐 Socials:
