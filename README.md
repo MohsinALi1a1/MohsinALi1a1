@@ -82,17 +82,26 @@
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohsinALi1a1&theme=github_dark" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false" height="170"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohsinALi1a1&theme=github_dark" height="150"/>
-</p>
+  <!-- Profile Details -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohsinALi1a1&theme=github_dark" height="170"/>
+  </div>
+
+  <!-- Streak Stats -->
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false" height="170"/>
+  </div>
+
+  <!-- Top Languages -->
+  <div style="width: 100%; max-width: 500px; margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohsinALi1a1&theme=github_dark" style="width: 100%; height: auto;"/>
+  </div>
+
+</div>
 
 ---
 
