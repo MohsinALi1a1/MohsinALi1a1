@@ -86,7 +86,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinALi1a1&theme=dark&hide_border=false" height="170"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=MohsinALi1a1&theme=dark&hide_border=false](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohsinALi1a1&theme=github_dark)" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MohsinALi1a1&theme=dark&hide_border=false" height="170"/>
 </p>
 
